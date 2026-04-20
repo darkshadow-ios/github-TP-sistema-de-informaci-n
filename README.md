@@ -9,9 +9,6 @@ Sistema: Banco Galicia
 Salida: Transacción completada.
 2) 
 
-
-
-
 a)Entrada: Marcos tiene una cuenta de banco Galicia y quiere transferirle dinero a Raul, al entrar a su cuenta ve que le ingreso dinero.
 
 
@@ -19,3 +16,4 @@ b)Proceso: Marcos va a transferencia y escribe el alias de Raul y verifica si es
 
 
 c)Salida: Marcos logra transferirle a Raul su dinero visible disminuye demostrando que la transferencia se logro y Raul vio que le llego dinero.
+
