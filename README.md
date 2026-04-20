@@ -16,4 +16,3 @@ b)Proceso: Marcos va a transferencia y escribe el alias de Raul y verifica si es
 
 
 c)Salida: Marcos logra transferirle a Raul su dinero visible disminuye demostrando que la transferencia se logro y Raul vio que le llego dinero.
-
